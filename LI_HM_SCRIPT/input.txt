@@ -1,0 +1,5 @@
+proxy=50.117.100.189:1212
+proxyUser=user-03659:ty4apa9e
+useragent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+users=nancy.mcgraw587@hotmail.com:Test-2014
+hotmailusers=nancy.mcgraw587@hotmail.com:Test-2014

@@ -1,0 +1,5 @@
+proxy=50.117.100.189:1212
+proxyUser=user-03659:ty4apa9e
+useragent=Mozilla/5.0 (Windows NT 6.1; rv:27.0) Gecko/20100101 Firefox/27.0
+users=marie.dalie145@gmail.com:Test-2014
+gmailusers=marie.dalie145@gmail.com:Test-2014
